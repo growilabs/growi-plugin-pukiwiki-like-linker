@@ -1,3 +1,5 @@
+# DEPRECATED: This package was moved to [@growi/plugin-pukiwiki-like-linker](https://github.com/weseek/growi/tree/master/packages/plugin-pukiwiki-like-linker)
+
 # growi-plugin-pukiwiki-like-linker
 [GROWI][growi] Plugin to add PukiwikiLikeLinker
 
